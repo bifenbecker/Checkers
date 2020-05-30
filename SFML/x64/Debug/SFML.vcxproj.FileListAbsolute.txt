@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\SFML\x64\Debug\SFML.exe
+C:\Users\HP\source\repos\SFML\x64\Debug\SFML.pdb

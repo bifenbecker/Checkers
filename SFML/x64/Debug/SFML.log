@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\SFML\Source.cpp(46,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\HP\source\repos\SFML\Source.cpp(46,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\HP\source\repos\SFML\Source.cpp(51,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\HP\source\repos\SFML\Source.cpp(51,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML.vcxproj -> C:\Users\HP\source\repos\SFML\x64\Debug\SFML.exe
